@@ -1,0 +1,11 @@
+[
+	{
+		"com": ":console:",
+		"level": "INFO",
+		"message": "image: repository 2",
+		"servicename": "taskservice",
+		"source_type": "file",
+		"code": 500,
+		"f1": 123.45
+	}
+]
